@@ -1,0 +1,38 @@
+body {
+    background-color: #0b1c3d;
+}
+h2 {
+    font-variant: small-caps;
+    font-size: 44px;
+    color: #90c0fff3;
+    text-align: center;
+}
+canvas {
+    background-color: #80a4e8;
+    margin: auto;
+    width: 1300px;
+    height: 550px;
+    position: absolute;
+    top: 30;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.rodapé{
+    position: relative;
+    top: 514;
+    width: 360px;
+    margin: 1%;
+    float: right;
+}
+.texto {
+    display: inline-block;
+    width: 98%;
+    background: #80a4e8;
+}
+h1 {
+    font-family: 'Courier New';
+    font-size: 12px;
+    color:#040e21;
+    text-align: right;
+}
